@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django**
 
-- 💬 Ask me about **TT**
+- 💬 Ask me about **Theekhathat**
 
 <p align="left">
 </p>
